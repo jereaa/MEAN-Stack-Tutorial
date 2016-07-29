@@ -2,6 +2,7 @@
   "name": "flapper-news",
   "version": "0.0.0",
   "private": true,
+  "author":  "Jeremias Aagaard",
   "scripts": {
     "start": "node ./bin/www"
   },
